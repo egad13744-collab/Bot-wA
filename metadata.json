@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Bot Connection Panel",
+  "description": "A web panel to connect your WhatsApp account using official phone pairing code and display real-time status and activity logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

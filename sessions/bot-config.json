@@ -1,0 +1,1749 @@
+{
+  "settings": {
+    "botName": "WhatsApp Bot Official",
+    "adminPhone": "628135159076",
+    "prefix": "/"
+  },
+  "stats": {
+    "messagesReceived": 2807,
+    "messagesSent": 323
+  },
+  "autoReplies": [
+    {
+      "id": "reply_1",
+      "keyword": "halo",
+      "reply": "Halo juga! Senang bisa melayani Anda. Ada yang bisa kami bantu? 😊",
+      "matchType": "exact"
+    },
+    {
+      "id": "reply_2",
+      "keyword": "info",
+      "reply": "WhatsApp Bot ini dibuat menggunakan Node.js, Baileys Library, dan React Dashboard! Server aktif 24/7.",
+      "matchType": "contains"
+    },
+    {
+      "id": "reply_3",
+      "keyword": "harga",
+      "reply": "Untuk informasi harga layanan atau paket bot, silakan hubungi admin kami secara langsung.",
+      "matchType": "contains"
+    }
+  ],
+  "commands": [
+    {
+      "name": "menu",
+      "enabled": true
+    },
+    {
+      "name": "ping",
+      "enabled": true
+    },
+    {
+      "name": "status",
+      "enabled": true
+    },
+    {
+      "name": "runtime",
+      "enabled": true
+    },
+    {
+      "name": "owner",
+      "enabled": true
+    },
+    {
+      "name": "bprofile",
+      "enabled": true
+    },
+    {
+      "name": "bvo",
+      "enabled": true
+    },
+    {
+      "name": "tts",
+      "enabled": true
+    },
+    {
+      "name": "its",
+      "enabled": true
+    },
+    {
+      "name": "antilink",
+      "enabled": true
+    },
+    {
+      "name": "profile",
+      "enabled": true
+    },
+    {
+      "name": "level",
+      "enabled": true
+    },
+    {
+      "name": "rank",
+      "enabled": true
+    },
+    {
+      "name": "leaderboard",
+      "enabled": true
+    },
+    {
+      "name": "getpp",
+      "enabled": true
+    },
+    {
+      "name": "quotes",
+      "enabled": true
+    },
+    {
+      "name": "fakta",
+      "enabled": true
+    },
+    {
+      "name": "joke",
+      "enabled": true
+    },
+    {
+      "name": "antibadword",
+      "enabled": true
+    },
+    {
+      "name": "feature",
+      "enabled": true
+    },
+    {
+      "name": "tebakkata",
+      "enabled": true
+    }
+  ],
+  "groups": [
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363420595102706@g.us",
+      "name": "Bagi Bagi🎊"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363318353659374@g.us",
+      "name": "Group gerak jalan Regu 15🇮🇩🇮🇩"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363418693184705@g.us",
+      "name": "GRUP SEKOLAH ERPAC"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363399384224319@g.us",
+      "name": "ᧁׁꭈׁׅυׁׅ℘ ᧁׁɑׁׅƙׁׅ յׁׅꫀׁׅܻ݊ᥣׁׅ֪ɑׁׅׅ꯱ܻ"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363405840705090@g.us",
+      "name": "tugas IPA "
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363426140711402@g.us",
+      "name": "anomali"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363294517253556@g.us",
+      "name": "Alumni SD 4 Kendalrejo "
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363184746698687@g.us",
+      "name": "⛺PRAMUKA⛺"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "6285258494355-1584328873@g.us",
+      "name": "KELAS 6🥉BELAJAR🥉\""
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363402502119839@g.us",
+      "name": "KUMPULAN ADMIN"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363407424344884@g.us",
+      "name": "Family klan B/I [ Kd 1959 ]"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "6281358039317-1624936006@g.us",
+      "name": "Spendaga BERPACU (OSN 2026)"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363403929644659@g.us",
+      "name": "matematika 8a"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363402244266160@g.us",
+      "name": "PENJASKES 8A "
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363295440256787@g.us",
+      "name": "GRUP KELAS 7A 24/25"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363419908314833@g.us",
+      "name": "GRUP 8A 2025/2026"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363418484164812@g.us",
+      "name": "MRF~Gamer Team🔥🎮🎭🗡"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363422131890958@g.us",
+      "name": "Bagi Bagi🎊"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363426212665415@g.us",
+      "name": "𝐁𝐄𝐁𝐀𝐒 𝐓𝐀𝐆 𝐒𝐖🤤"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363348225689068@g.us",
+      "name": "❤️ ~ BloodMoon Anime Husbu/Waifu Syndicate ~ 🩸"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363407165910716@g.us",
+      "name": "✩°｡⋆⸜ 𝐀𝐜𝐭𝐢𝐨𝐧 𝐟𝐚𝐧𝐭𝐚𝐬𝐲𐙚⋆°🦢⋆ᥫ᭡"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": true,
+      "welcomeMessage": "Selamat datang @user di ♛⛧⋆𝐎𝐮𝐫 𝐒𝐨𝐥𝐚𝐜𝐞⋆⛧♛ ",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": true,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363429248244360@g.us",
+      "name": "♛⛧⋆𝐨𝐮𝐫 𝐬𝐨𝐥𝐚𝐜𝐞⋆⛧♛"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363193400139386@g.us",
+      "name": "SD (2) - IJEN GEOSCIECE 2023"
+    },
+    {
+      "enabled": false,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363427003564184@g.us",
+      "name": "𖥔 𝐏𝐇𝐎𝐄𝐍𝐈𝐗 𝐀𝐒𝐂𝐄𝐍𝐒𝐈𝐎𝐍 𝐒𝐄𝐂𝐓 「 东 华 」"
+    },
+    {
+      "enabled": false,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363425943430877@g.us",
+      "name": "Donghua Fengyun (动画风云)"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363023718113116@g.us",
+      "name": "KOMUNITAS LORDS BANTAI 👑"
+    },
+    {
+      "enabled": true,
+      "autoReplyEnabled": false,
+      "welcomeEnabled": false,
+      "welcomeMessage": "Selamat datang @user di grup ini!",
+      "goodbyeEnabled": false,
+      "goodbyeMessage": "@user telah keluar.",
+      "antilinkEnabled": false,
+      "rankEnabled": true,
+      "antibadwordEnabled": false,
+      "badwordList": [],
+      "xpPerChat": 10,
+      "cooldown": 30,
+      "id": "120363294193127337@g.us",
+      "name": "STOK AKUN LB ( PRIVATE GRUP )"
+    }
+  ],
+  "xpData": [
+    {
+      "groupId": "120363425943430877@g.us",
+      "userId": "146441406312464@lid",
+      "name": "Takata Mashiho🍀💐",
+      "xp": 620,
+      "level": 4,
+      "totalChat": 135,
+      "joinedAt": 1781520019873,
+      "lastMessageTime": 1781523416329
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "248550562766897@lid",
+      "name": "𝚜𝚒𝚕𝚕𝚕",
+      "xp": 400,
+      "level": 3,
+      "totalChat": 102,
+      "joinedAt": 1781520019876,
+      "lastMessageTime": 1781524153502
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "164815561572477@lid",
+      "name": "✯RIZZZ✯🪽",
+      "xp": 50,
+      "level": 1,
+      "totalChat": 8,
+      "joinedAt": 1781520028443,
+      "lastMessageTime": 1781521195884
+    },
+    {
+      "groupId": "120363425943430877@g.us",
+      "userId": "223124138229997@lid",
+      "name": "?? ¿¿?? ¿¿",
+      "xp": 510,
+      "level": 4,
+      "totalChat": 98,
+      "joinedAt": 1781520033858,
+      "lastMessageTime": 1781522836035
+    },
+    {
+      "groupId": "120363425943430877@g.us",
+      "userId": "239123092762797@lid",
+      "name": "the world is very cruel",
+      "xp": 40,
+      "level": 1,
+      "totalChat": 5,
+      "joinedAt": 1781520054374,
+      "lastMessageTime": 1781520591908
+    },
+    {
+      "groupId": "global",
+      "userId": "230712959566057@lid",
+      "name": "友Vitz  Cuek★",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781520076616,
+      "lastMessageTime": 1781522399169
+    },
+    {
+      "groupId": "120363425943430877@g.us",
+      "userId": "184482384613477@lid",
+      "name": "yun wangshu 🥶❄️",
+      "xp": 190,
+      "level": 2,
+      "totalChat": 35,
+      "joinedAt": 1781520086964,
+      "lastMessageTime": 1781523405461
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "40759256432797@lid",
+      "name": "𝐫𝐚𝐯𝐞𝐧𝐚",
+      "xp": 230,
+      "level": 2,
+      "totalChat": 36,
+      "joinedAt": 1781520110620,
+      "lastMessageTime": 1781523225257
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "63647908933863@lid",
+      "name": "Brisik‘ || 「𝐇𝐑𝐋𝐌」领",
+      "xp": 240,
+      "level": 2,
+      "totalChat": 40,
+      "joinedAt": 1781520118260,
+      "lastMessageTime": 1781523403828
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "27973289787608@lid",
+      "name": "α ʚїɞ",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781520123552,
+      "lastMessageTime": 1781520205898
+    },
+    {
+      "groupId": "global",
+      "userId": "278516398612619@lid",
+      "name": ".",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781520129110,
+      "lastMessageTime": 1781520129110
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "129073112170737@lid",
+      "name": "nata",
+      "xp": 160,
+      "level": 2,
+      "totalChat": 28,
+      "joinedAt": 1781520157340,
+      "lastMessageTime": 1781524209712
+    },
+    {
+      "groupId": "120363348225689068@g.us",
+      "userId": "30061113692197@lid",
+      "name": "♛",
+      "xp": 30,
+      "level": 1,
+      "totalChat": 6,
+      "joinedAt": 1781520165457,
+      "lastMessageTime": 1781526699503
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "165180935794884@lid",
+      "name": "𝗖𝗵𝗲𝗻 𝗟𝗶【陈立】",
+      "xp": 50,
+      "level": 1,
+      "totalChat": 6,
+      "joinedAt": 1781520165716,
+      "lastMessageTime": 1781520410044
+    },
+    {
+      "groupId": "120363023718113116@g.us",
+      "userId": "64145386905611@lid",
+      "name": "Nopal",
+      "xp": 30,
+      "level": 1,
+      "totalChat": 4,
+      "joinedAt": 1781520178611,
+      "lastMessageTime": 1781520663759
+    },
+    {
+      "groupId": "120363425943430877@g.us",
+      "userId": "25280831823877@lid",
+      "name": "★𝙒𝙖𝙣𝙜_𝙡𝙞𝙣77𓆩姓𓆪★",
+      "xp": 390,
+      "level": 3,
+      "totalChat": 56,
+      "joinedAt": 1781520195479,
+      "lastMessageTime": 1781523420197
+    },
+    {
+      "groupId": "global",
+      "userId": "90070497370339@lid",
+      "name": "Faris",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781520204017,
+      "lastMessageTime": 1781520204017
+    },
+    {
+      "groupId": "120363425943430877@g.us",
+      "userId": "100107634643052@lid",
+      "name": "°デイ▪︎chicken noodle",
+      "xp": 220,
+      "level": 2,
+      "totalChat": 51,
+      "joinedAt": 1781520204544,
+      "lastMessageTime": 1781521653197
+    },
+    {
+      "groupId": "120363348225689068@g.us",
+      "userId": "118871860240546@lid",
+      "name": "ionanana",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781520212648,
+      "lastMessageTime": 1781520212648
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "250100609744981@lid",
+      "name": "orgimup",
+      "xp": 50,
+      "level": 1,
+      "totalChat": 6,
+      "joinedAt": 1781520244389,
+      "lastMessageTime": 1781522597073
+    },
+    {
+      "groupId": "120363425943430877@g.us",
+      "userId": "55929684926571@lid",
+      "name": "𖤍𝐋𝐚𝐧𝐠𝐢𝐭 星穹𖤍",
+      "xp": 70,
+      "level": 1,
+      "totalChat": 12,
+      "joinedAt": 1781520261084,
+      "lastMessageTime": 1781521561441
+    },
+    {
+      "groupId": "120363348225689068@g.us",
+      "userId": "193557449199657@lid",
+      "name": "QUEEN CLLARISA ARGANTARA PRATAMA BIANTARA ABIMANA ADITAMA",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781520276427,
+      "lastMessageTime": 1781520276427
+    },
+    {
+      "groupId": "120363425943430877@g.us",
+      "userId": "236154481848473@lid",
+      "name": "kyuu",
+      "xp": 80,
+      "level": 1,
+      "totalChat": 14,
+      "joinedAt": 1781520330899,
+      "lastMessageTime": 1781520920077
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "273404951277702@lid",
+      "name": "E",
+      "xp": 300,
+      "level": 3,
+      "totalChat": 39,
+      "joinedAt": 1781520335147,
+      "lastMessageTime": 1781527520607
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "8684474257427@lid",
+      "name": "Leren INTEL",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 4,
+      "joinedAt": 1781520367741,
+      "lastMessageTime": 1781520397920
+    },
+    {
+      "groupId": "global",
+      "userId": "35829221167353@lid",
+      "name": "barr",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781520520590,
+      "lastMessageTime": 1781520520590
+    },
+    {
+      "groupId": "120363023718113116@g.us",
+      "userId": "70179916660771@lid",
+      "name": "Boril",
+      "xp": 40,
+      "level": 1,
+      "totalChat": 5,
+      "joinedAt": 1781520522506,
+      "lastMessageTime": 1781526209358
+    },
+    {
+      "groupId": "global",
+      "userId": "111016885121203@lid",
+      "name": "I'DONT NO.    dio jambu",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781520561680,
+      "lastMessageTime": 1781520561680
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "97707016347653@lid",
+      "name": "⌞友⌝𝓡 𝘢𝘯.𝟏𝟏𝟗`🇨🇳",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781520567634,
+      "lastMessageTime": 1781520567634
+    },
+    {
+      "groupId": "120363023718113116@g.us",
+      "userId": "149469291147378@lid",
+      "name": "Dika",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781520568257,
+      "lastMessageTime": 1781520568257
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "98570254454953@lid",
+      "name": "LevrammFx🏎",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781520609033,
+      "lastMessageTime": 1781520609033
+    },
+    {
+      "groupId": "120363023718113116@g.us",
+      "userId": "253682612482196@lid",
+      "name": "ramm",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781520615858,
+      "lastMessageTime": 1781520615858
+    },
+    {
+      "groupId": "120363425943430877@g.us",
+      "userId": "94820680884258@lid",
+      "name": "zaa   ¶随扎意 𝕾𝖅¶",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781520627103,
+      "lastMessageTime": 1781520627103
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "66490606858348@lid",
+      "name": "Who Is Huang?",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781520636497,
+      "lastMessageTime": 1781520636497
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "131937435934895@lid",
+      "name": ".",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781520655120,
+      "lastMessageTime": 1781520696197
+    },
+    {
+      "groupId": "global",
+      "userId": "31465400225918@lid",
+      "name": "E",
+      "xp": 100,
+      "level": 2,
+      "totalChat": 16,
+      "joinedAt": 1781520655429,
+      "lastMessageTime": 1781527399491
+    },
+    {
+      "groupId": "120363023718113116@g.us",
+      "userId": "260855023296605@lid",
+      "name": ".",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781520670435,
+      "lastMessageTime": 1781520670435
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "179658700136527@lid",
+      "name": "🌸我是世界的统治者🌸",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781520726071,
+      "lastMessageTime": 1781520726071
+    },
+    {
+      "groupId": "global",
+      "userId": "226044447600736@lid",
+      "name": "𝙎𝙖𝙩𝙪𝙧𝙜𝙝𝙖𝙣`𝐛𝐭𝐭𝐡",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781520831481,
+      "lastMessageTime": 1781520831481
+    },
+    {
+      "groupId": "global",
+      "userId": "4561322377240@lid",
+      "name": "Sali",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781521114429,
+      "lastMessageTime": 1781521114429
+    },
+    {
+      "groupId": "120363348225689068@g.us",
+      "userId": "101962657865768@lid",
+      "name": "Davin_X.3",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781521173459,
+      "lastMessageTime": 1781521173459
+    },
+    {
+      "groupId": "global",
+      "userId": "66490606858348@lid",
+      "name": "Who Is Huang?",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781521335149,
+      "lastMessageTime": 1781521335149
+    },
+    {
+      "groupId": "120363348225689068@g.us",
+      "userId": "226598800376059@lid",
+      "name": "◥꧁ད AKSARAH/SARAH🌕🦉✨",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781521390902,
+      "lastMessageTime": 1781521390902
+    },
+    {
+      "groupId": "120363425943430877@g.us",
+      "userId": "36400401514527@lid",
+      "name": "Sheng'er",
+      "xp": 70,
+      "level": 1,
+      "totalChat": 9,
+      "joinedAt": 1781521447961,
+      "lastMessageTime": 1781523366141
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "250878250479658@lid",
+      "name": "𝐬𝐥𝐭𝐯 • 𝐂𝐡𝐞𝐧𝐧𝐚𝐧`李",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781521455187,
+      "lastMessageTime": 1781521455187
+    },
+    {
+      "groupId": "120363348225689068@g.us",
+      "userId": "142357261508692@lid",
+      "name": "anak epep",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781521465558,
+      "lastMessageTime": 1781524660283
+    },
+    {
+      "groupId": "120363348225689068@g.us",
+      "userId": "41794863628401@lid",
+      "name": "~rulzz serfort",
+      "xp": 30,
+      "level": 1,
+      "totalChat": 3,
+      "joinedAt": 1781521506166,
+      "lastMessageTime": 1781526715759
+    },
+    {
+      "groupId": "global",
+      "userId": "42133813780499@lid",
+      "name": "Sri Lestari",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781521646750,
+      "lastMessageTime": 1781522353254
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "35829221167353@lid",
+      "name": "barr",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781521686273,
+      "lastMessageTime": 1781521686273
+    },
+    {
+      "groupId": "120363348225689068@g.us",
+      "userId": "9307278065886@lid",
+      "name": "𝕰𝖑𝔩𝔦𝔬𝔱 𝒟𝖆𝖗𝖜𝖎𝖓𝖉𝖊𝖓𝕾\n@mᥡ ᥲᥴᥴ᥆ᥙᥒ𝗍 ᑲᥙssіᥒᥱssmᥲᥒ",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781521695517,
+      "lastMessageTime": 1781521727729
+    },
+    {
+      "groupId": "global",
+      "userId": "223124138229997@lid",
+      "name": "?? ¿¿?? ¿¿",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781521765813,
+      "lastMessageTime": 1781521765813
+    },
+    {
+      "groupId": "120363425943430877@g.us",
+      "userId": "112279722926141@lid",
+      "name": "masukan nama anda",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781521852656,
+      "lastMessageTime": 1781521852656
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "153172123320366@lid",
+      "name": "liπ'",
+      "xp": 135,
+      "level": 2,
+      "totalChat": 52,
+      "joinedAt": 1781521911996,
+      "lastMessageTime": 1781522538703
+    },
+    {
+      "groupId": "120363425943430877@g.us",
+      "userId": "145844925952032@lid",
+      "name": "∅ orang ini telah hilang",
+      "xp": 80,
+      "level": 1,
+      "totalChat": 11,
+      "joinedAt": 1781521987034,
+      "lastMessageTime": 1781522582969
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "240286945001501@lid",
+      "name": "diya plengger",
+      "xp": 60,
+      "level": 1,
+      "totalChat": 12,
+      "joinedAt": 1781522023396,
+      "lastMessageTime": 1781522387130
+    },
+    {
+      "groupId": "120363407165910716@g.us",
+      "userId": "145844925952032@lid",
+      "name": "∅ orang ini telah hilang",
+      "xp": 40,
+      "level": 1,
+      "totalChat": 5,
+      "joinedAt": 1781522035746,
+      "lastMessageTime": 1781526307348
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "235278727925909@lid",
+      "name": "~Zeng niu🇨🇳",
+      "xp": 30,
+      "level": 1,
+      "totalChat": 5,
+      "joinedAt": 1781522056501,
+      "lastMessageTime": 1781522196339
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "102882418397272@lid",
+      "name": "silva✌🏻",
+      "xp": 40,
+      "level": 1,
+      "totalChat": 11,
+      "joinedAt": 1781522099762,
+      "lastMessageTime": 1781523616298
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "120363427003564184@g.us",
+      "name": "User",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781522101712,
+      "lastMessageTime": 1781522101712
+    },
+    {
+      "groupId": "120363407165910716@g.us",
+      "userId": "199171323740215@lid",
+      "name": "cailin`",
+      "xp": 70,
+      "level": 1,
+      "totalChat": 12,
+      "joinedAt": 1781522223586,
+      "lastMessageTime": 1781527625488
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "155723283570698@lid",
+      "name": "𝘿𝙬𝙞‘「𝐇𝐑𝐋𝐌」领",
+      "xp": 30,
+      "level": 1,
+      "totalChat": 3,
+      "joinedAt": 1781522297812,
+      "lastMessageTime": 1781523723809
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "31465400225918@lid",
+      "name": "fnaa.",
+      "xp": 1140,
+      "level": 6,
+      "totalChat": 202,
+      "joinedAt": 1781522346669,
+      "lastMessageTime": 1781527050674
+    },
+    {
+      "groupId": "120363425943430877@g.us",
+      "userId": "121337674780846@lid",
+      "name": "—𝐑𝐢𝐳𝐳'𝐬🕷",
+      "xp": 110,
+      "level": 2,
+      "totalChat": 17,
+      "joinedAt": 1781522372143,
+      "lastMessageTime": 1781523440448
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "60357527789688@lid",
+      "name": "༆lori yagami𓇢𓆸",
+      "xp": 40,
+      "level": 1,
+      "totalChat": 6,
+      "joinedAt": 1781522383392,
+      "lastMessageTime": 1781523259000
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "223691191390238@lid",
+      "name": "~👑Virgin√™®©¥JeStAm,💠",
+      "xp": 30,
+      "level": 1,
+      "totalChat": 6,
+      "joinedAt": 1781522424157,
+      "lastMessageTime": 1781522831734
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "248550562766897@lid",
+      "name": "𝚜𝚒𝚕𝚕𝚕",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781522481162,
+      "lastMessageTime": 1781522481162
+    },
+    {
+      "groupId": "global",
+      "userId": "248550562766897@lid",
+      "name": "𝚜𝚒𝚕𝚕𝚕",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781522483763,
+      "lastMessageTime": 1781522644453
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "90070497370339@lid",
+      "name": "Faris",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 3,
+      "joinedAt": 1781522506535,
+      "lastMessageTime": 1781522659920
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "279229379903668@lid",
+      "name": "gaaa tauuu",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 3,
+      "joinedAt": 1781522563712,
+      "lastMessageTime": 1781525011762
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "9720081473582@lid",
+      "name": "Desiy💋🤍💥",
+      "xp": 30,
+      "level": 1,
+      "totalChat": 5,
+      "joinedAt": 1781522584522,
+      "lastMessageTime": 1781522782732
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "98445616500850@lid",
+      "name": "Noah -_-   「𝐇𝐑𝐋𝐌」领",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781522638637,
+      "lastMessageTime": 1781522638637
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "190421787521231@lid",
+      "name": "ARIF",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781522644759,
+      "lastMessageTime": 1781522727433
+    },
+    {
+      "groupId": "global",
+      "userId": "156586639106074@lid",
+      "name": "Reyy",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781522661423,
+      "lastMessageTime": 1781522661423
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "130988432711689@lid",
+      "name": "neysa imut",
+      "xp": 30,
+      "level": 1,
+      "totalChat": 3,
+      "joinedAt": 1781522720548,
+      "lastMessageTime": 1781522901670
+    },
+    {
+      "groupId": "120363427003564184@g.us",
+      "userId": "160657647362259@lid",
+      "name": "𝘅𝗶𝗮𝗼 𝘄𝘂'ˢᵃⁿ₅`𝘿𝙉𝙃囧",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781522744083,
+      "lastMessageTime": 1781522744083
+    },
+    {
+      "groupId": "120363425943430877@g.us",
+      "userId": "156586639106074@lid",
+      "name": "Reyy",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781522817741,
+      "lastMessageTime": 1781522817741
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "47240932548635@lid",
+      "name": "§ ¥ ~Ex ZtAr † ★‡ ¢",
+      "xp": 460,
+      "level": 4,
+      "totalChat": 70,
+      "joinedAt": 1781523457267,
+      "lastMessageTime": 1781527609465
+    },
+    {
+      "groupId": "global",
+      "userId": "232998150619236@lid",
+      "name": "•silaaa cantekkk•",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781523514431,
+      "lastMessageTime": 1781523603677
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "148623333580935@lid",
+      "name": "Laura🦕",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781523516314,
+      "lastMessageTime": 1781523676349
+    },
+    {
+      "groupId": "120363348225689068@g.us",
+      "userId": "148623333580935@lid",
+      "name": "Laura🦕",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781523582358,
+      "lastMessageTime": 1781523582358
+    },
+    {
+      "groupId": "120363348225689068@g.us",
+      "userId": "44332786700356@lid",
+      "name": "D",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781523850114,
+      "lastMessageTime": 1781523850114
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "230322637644022@lid",
+      "name": "am💣",
+      "xp": 825,
+      "level": 5,
+      "totalChat": 100,
+      "joinedAt": 1781523895188,
+      "lastMessageTime": 1781526666533
+    },
+    {
+      "groupId": "global",
+      "userId": "240905403510854@lid",
+      "name": "cvok",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781523973138,
+      "lastMessageTime": 1781523973138
+    },
+    {
+      "groupId": "global",
+      "userId": "202486736543916@lid",
+      "name": "😌😌",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781524019042,
+      "lastMessageTime": 1781524019042
+    },
+    {
+      "groupId": "global",
+      "userId": "14362957897908@lid",
+      "name": "—𝐋𝐢𝐚𝐦𝐳  𝐃` 𝐍𝐝𝐫𝐚",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781524148804,
+      "lastMessageTime": 1781524148804
+    },
+    {
+      "groupId": "global",
+      "userId": "63922686177489@lid",
+      "name": "천상 아즈라❤️‍🔥👑",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781524310311,
+      "lastMessageTime": 1781524310311
+    },
+    {
+      "groupId": "120363426140711402@g.us",
+      "userId": "31465400225918@lid",
+      "name": "fnaa.",
+      "xp": 40,
+      "level": 1,
+      "totalChat": 4,
+      "joinedAt": 1781524561593,
+      "lastMessageTime": 1781524761796
+    },
+    {
+      "groupId": "120363426140711402@g.us",
+      "userId": "279611061571648@lid",
+      "name": "~zhou •𝐄𝐓𝐑𝐍𝐋蕾:",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 5,
+      "joinedAt": 1781524591431,
+      "lastMessageTime": 1781524628149
+    },
+    {
+      "groupId": "120363426140711402@g.us",
+      "userId": "230322637644022@lid",
+      "name": "am💣",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 5,
+      "joinedAt": 1781524628658,
+      "lastMessageTime": 1781524872974
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "9612841459746@lid",
+      "name": "A",
+      "xp": 220,
+      "level": 2,
+      "totalChat": 33,
+      "joinedAt": 1781524636672,
+      "lastMessageTime": 1781527636373
+    },
+    {
+      "groupId": "120363426140711402@g.us",
+      "userId": "273404951277702@lid",
+      "name": "E",
+      "xp": 30,
+      "level": 1,
+      "totalChat": 4,
+      "joinedAt": 1781524640931,
+      "lastMessageTime": 1781524951722
+    },
+    {
+      "groupId": "global",
+      "userId": "97233949188231@lid",
+      "name": "Riski Medani",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781524686619,
+      "lastMessageTime": 1781524686619
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "279611061571648@lid",
+      "name": "~zhou •𝐄𝐓𝐑𝐍𝐋蕾:",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781524741877,
+      "lastMessageTime": 1781524741877
+    },
+    {
+      "groupId": "global",
+      "userId": "53640047886438@lid",
+      "name": "Re~",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781524823327,
+      "lastMessageTime": 1781524823327
+    },
+    {
+      "groupId": "120363023718113116@g.us",
+      "userId": "103689553502367@lid",
+      "name": "WeedsLife",
+      "xp": 30,
+      "level": 1,
+      "totalChat": 4,
+      "joinedAt": 1781524877503,
+      "lastMessageTime": 1781525290709
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "70064371978372@lid",
+      "name": "~~>",
+      "xp": 240,
+      "level": 2,
+      "totalChat": 55,
+      "joinedAt": 1781524938890,
+      "lastMessageTime": 1781525955111
+    },
+    {
+      "groupId": "global",
+      "userId": "84778745372917@lid",
+      "name": "Fay",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781525106208,
+      "lastMessageTime": 1781525106208
+    },
+    {
+      "groupId": "global",
+      "userId": "10076563722335@lid",
+      "name": "sosok tetalik",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781525159480,
+      "lastMessageTime": 1781525159480
+    },
+    {
+      "groupId": "120363023718113116@g.us",
+      "userId": "143619898007574@lid",
+      "name": "ㅤ",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781525238192,
+      "lastMessageTime": 1781526743186
+    },
+    {
+      "groupId": "120363023718113116@g.us",
+      "userId": "257135564861545@lid",
+      "name": "Barongsay_Bot 🧝🏼‍♀️",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 4,
+      "joinedAt": 1781525287948,
+      "lastMessageTime": 1781526174470
+    },
+    {
+      "groupId": "120363407165910716@g.us",
+      "userId": "193055156117594@lid",
+      "name": "𝐙𝐞𝐲𝐢  ₍ᐢ..ᐢ₎",
+      "xp": 370,
+      "level": 3,
+      "totalChat": 48,
+      "joinedAt": 1781525344970,
+      "lastMessageTime": 1781527628315
+    },
+    {
+      "groupId": "120363407165910716@g.us",
+      "userId": "125877572645012@lid",
+      "name": "( saa) 👀𝐬𝐥𝐭𝐯 •𝐲𝐮𝐧 𝐰𝐚𝐧𝐠𝐬𝐡𝐮",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781525358070,
+      "lastMessageTime": 1781525423036
+    },
+    {
+      "groupId": "120363407165910716@g.us",
+      "userId": "254683608289403@lid",
+      "name": "深 ᴀᴜsᴛɪɴ ɢʀɪғғɪɴ 深",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781525384586,
+      "lastMessageTime": 1781526379432
+    },
+    {
+      "groupId": "120363407165910716@g.us",
+      "userId": "151256467284096@lid",
+      "name": "~  Zhaoﾟ Xu ||「𝐇𝐑𝐋𝐌」领",
+      "xp": 70,
+      "level": 1,
+      "totalChat": 10,
+      "joinedAt": 1781525445361,
+      "lastMessageTime": 1781525822937
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "193055156117594@lid",
+      "name": "𝐙𝐞𝐲𝐢  ₍ᐢ..ᐢ₎",
+      "xp": 525,
+      "level": 4,
+      "totalChat": 60,
+      "joinedAt": 1781525464808,
+      "lastMessageTime": 1781527106993
+    },
+    {
+      "groupId": "global",
+      "userId": "6285850287047@s.whatsapp.net",
+      "name": "E",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781525511236,
+      "lastMessageTime": 1781525511236
+    },
+    {
+      "groupId": "global",
+      "userId": "120363188674417422@newsletter",
+      "name": "User",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781525821541,
+      "lastMessageTime": 1781526501945
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "30490593648737@lid",
+      "name": ".",
+      "xp": 70,
+      "level": 1,
+      "totalChat": 14,
+      "joinedAt": 1781525946411,
+      "lastMessageTime": 1781527011989
+    },
+    {
+      "groupId": "120363023718113116@g.us",
+      "userId": "54288487305439@lid",
+      "name": "riff",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781526070602,
+      "lastMessageTime": 1781526070602
+    },
+    {
+      "groupId": "120363348225689068@g.us",
+      "userId": "223055049687276@lid",
+      "name": "ダンテ亗",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781526128996,
+      "lastMessageTime": 1781526830264
+    },
+    {
+      "groupId": "120363023718113116@g.us",
+      "userId": "150182893244538@lid",
+      "name": "Rey",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 4,
+      "joinedAt": 1781526154125,
+      "lastMessageTime": 1781526194544
+    },
+    {
+      "groupId": "global",
+      "userId": "273404951277702@lid",
+      "name": "E",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781526346299,
+      "lastMessageTime": 1781526346299
+    },
+    {
+      "groupId": "120363348225689068@g.us",
+      "userId": "33303696519196@lid",
+      "name": "FIAN_GANZZ",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781526730767,
+      "lastMessageTime": 1781526730767
+    },
+    {
+      "groupId": "global",
+      "userId": "150693893697613@lid",
+      "name": "Sheng caier",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781526949671,
+      "lastMessageTime": 1781526949671
+    },
+    {
+      "groupId": "120363407165910716@g.us",
+      "userId": "31465400225918@lid",
+      "name": "fnaa.",
+      "xp": 465,
+      "level": 4,
+      "totalChat": 56,
+      "joinedAt": 1781526958576,
+      "lastMessageTime": 1781527613187
+    },
+    {
+      "groupId": "120363429248244360@g.us",
+      "userId": "102757730140206@lid",
+      "name": "24-januari",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 5,
+      "joinedAt": 1781526977835,
+      "lastMessageTime": 1781527025365
+    },
+    {
+      "groupId": "120363407165910716@g.us",
+      "userId": "47240932548635@lid",
+      "name": "§ ¥ ~Ex ZtAr † ★‡ ¢",
+      "xp": 20,
+      "level": 1,
+      "totalChat": 2,
+      "joinedAt": 1781527295457,
+      "lastMessageTime": 1781527328365
+    },
+    {
+      "groupId": "120363407165910716@g.us",
+      "userId": "135184749989995@lid",
+      "name": "𝐘𝐞 𝐂𝐡𝐞𝐧",
+      "xp": 130,
+      "level": 2,
+      "totalChat": 3,
+      "joinedAt": 1781527324247,
+      "lastMessageTime": 1781527525358
+    },
+    {
+      "groupId": "120363407165910716@g.us",
+      "userId": "273404951277702@lid",
+      "name": "E",
+      "xp": 10,
+      "level": 1,
+      "totalChat": 1,
+      "joinedAt": 1781527584220,
+      "lastMessageTime": 1781527584220
+    }
+  ],
+  "features": {
+    "levelingEnabled": true,
+    "rankEnabled": true,
+    "antiBadwordEnabled": true,
+    "randomEnabled": true
+  }
+}
